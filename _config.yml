@@ -9,3 +9,8 @@ aux_links:
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
+# Aux links for the upper right navigation
+aux_links:
+  "Joint Task Force: Romeo Discord":
+    - "https://discord.gg/brRcbYyGng"
