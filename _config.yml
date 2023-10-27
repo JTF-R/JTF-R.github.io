@@ -14,3 +14,6 @@ color_scheme: dark
 aux_links:
   "Join the JTF:R Discord!":
     - "https://discord.gg/brRcbYyGng"
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/jtfr.png"
